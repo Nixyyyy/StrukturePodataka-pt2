@@ -1,0 +1,1 @@
+# StrukturePodataka-pt2
