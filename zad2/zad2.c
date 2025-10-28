@@ -21,6 +21,8 @@ int main() {
 	osoba head;
 	strcpy(head.ime, ""); strcpy(head.prezime, "");head.rodenje = 0;head.next = NULL;
 	
+	
+	
 	dodajOsobu(&head, "Nikola", "Bareta", 04);
 	ispis(head.next);
 	dodajKraj(&head, "Nikola", "Kurt", 04);
