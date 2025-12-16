@@ -1,0 +1,3 @@
+﻿  zad7.c
+C:\Users\Korisnik\Desktop\Repozitorij\zad7\zad7.c(137,9): warning C4047: 'return': 'Dir_position' differs in levels of indirection from 'int'
+  zad7.vcxproj -> C:\Users\Korisnik\Desktop\Repozitorij\zad7\x64\Debug\zad7.exe
