@@ -45,7 +45,7 @@ int QuantityBought(rec head);
 
 void FreeAll(rec head);
 
-/* MAIN */
+
 int main(void)
 {
     double sumSpent;

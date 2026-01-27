@@ -1,0 +1,8 @@
+﻿  zad9.c
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(30,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(141,8): warning C4033: 'PrintInorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(148,8): warning C4033: 'PrintInorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(57): warning C4716: 'InsertRandomly': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(130): warning C4715: 'PrintToFile': not all control paths return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad9\zad9.c(150): warning C4716: 'PrintInorder': must return a value
+  zad9.vcxproj -> C:\Users\Korisnik\Desktop\Repozitorij\zad9\x64\Debug\zad9.exe

@@ -1,0 +1,40 @@
+﻿  zad8.c
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(32,7): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(53,20): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(55,21): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(79,18): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(127,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(132,26): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(134,8): warning C4033: 'Inorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(139,26): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(141,8): warning C4033: 'Inorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(148,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(150,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(152,2): warning C4033: 'Preorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(157,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(159,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(162,2): warning C4033: 'Postorder' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(182,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(189,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(203,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(205,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(207,2): warning C4033: 'PrintLevel' must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(216,8): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(222,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(224,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(234,24): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(234,54): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(240,15): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(242,29): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(242,59): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(269,7): warning C4101: 'prev': unreferenced local variable
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(281,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(283,25): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(143): warning C4716: 'Inorder': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(153): warning C4716: 'Preorder': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(163): warning C4716: 'Postorder': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(208): warning C4716: 'PrintLevel': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(176): warning C4716: 'LevelOrder': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(265): warning C4716: 'DeleteNode': must return a value
+C:\Users\Korisnik\Desktop\Repozitorij\zad8\zad8.c(273): warning C4716: 'DeleteDoubleChild': must return a value
+  zad8.vcxproj -> C:\Users\Korisnik\Desktop\Repozitorij\zad8\x64\Debug\zad8.exe
